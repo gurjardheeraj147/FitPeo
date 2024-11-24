@@ -1,0 +1,29 @@
+1:Create a new Java project.
+ open the chrome broswer.
+ maximize the windeow.
+ give the implicitywait time duration for the secript.
+ nagitve the url.
+ Find the locator and usnig the different methods.
+ 
+ 2:Scroll to the slider section.
+ Using jacaScriptexecutr the scroll the wideow.
+ Adjust the slider to 820
+ Verify slider value updated to 820
+ 	Slider value matches expected value.
+ 	Slider value does not match or is null.
+ 	
+3: Update the text field to 560
+	Verify slider position updated to match 560
+	
+4: Scroll and select CPT checkboxes.
+	using click method.
+	
+5: Validate Total Recurring Reimbursement value
+
+6:Close the browser
+
+7:result
+
+Slider value does not match or is null.
+Text field value update failed.
+Reimbursement value validation failed.

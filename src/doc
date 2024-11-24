@@ -1,0 +1,19 @@
+Set Up Your Java Project:
+
+Create a new Java project.
+Add the Selenium Java bindings .jar files to your project’s build path.
+Place the FitPeoAutomation.java file in your project.
+
+
+Install ChromeDriver:
+Download ChromeDriver and place it in a directory accessible via the system’s PATH or provide its path explicitly:
+java
+
+
+Run the Script:
+Compile and run FitPeoAutomation.java from your IDE or terminal:
+
+Expected Output
+The script opens the FitPeo website, navigates to the Revenue Calculator, and adjusts the slider.
+It validates the slider and text field values.
+It selects the CPT checkboxes and validates the "Total Recurring Reimbursement" value.
